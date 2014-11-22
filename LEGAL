@@ -1,20 +1,16 @@
-use strict;
-use warnings;
-package Software::License::ISC;
-# VERSION
+__[ NAME ]__
+The ISC License
+__URL__
+http://opensource.org/licenses/ISC
+__[ META_NAME ]__
+open_source
+__{ META2_NAME }__
+open_source
+__[ NOTICE ]__
+Copyright (C) {{$self->year}} by {{$self->holder}}.
 
-use parent 'Software::License';
-# ABSTRACT: The ISC License
-
-sub name { 'The ISC License' }
-sub url  { 'about:blank' }
-sub meta_name  { 'open_source' }
-sub meta2_name { 'open_source' }
-
-1;
-
-__DATA__
-__LICENSE__
+This is free software, licensed under {{$self->name}}.
+__[ LICENSE ]__
 Permission to use, copy, modify, and/or distribute this
 software for any purpose with or without fee is hereby granted, provided
 that the above copyright notice and this permission notice appear in all
