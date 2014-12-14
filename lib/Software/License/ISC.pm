@@ -1,13 +1,16 @@
 use strict;
 use warnings;
+
 package Software::License::ISC;
+
 # VERSION
 
 use parent 'Software::License';
+
 # ABSTRACT: The ISC License
 
-sub name { 'The ISC License' }
-sub url  { 'about:blank' }
+sub name       { 'The ISC License' }
+sub url        { 'about:blank' }
 sub meta_name  { 'open_source' }
 sub meta2_name { 'open_source' }
 
