@@ -1,7 +1,17 @@
 Revision history for Software-License-ISC
 
 {{$NEXT}}
+
+0.004 2015-04-14
  - enhance build process
+
+ [API CHANGES]
+
+ [BUG FIXES]
+
+ [DOCUMENTATION]
+
+ [ENHANCEMENTS]
 
 0.003 2014-11-24
  - use GithubMeta plugin
