@@ -1,17 +1,10 @@
 Revision history for Software-License-ISC
 
 {{$NEXT}}
+ - enhance build process
 
 0.003 2014-11-24
  - use GithubMeta plugin
-
- [API CHANGES]
-
- [BUG FIXES]
-
- [DOCUMENTATION]
-
- [ENHANCEMENTS]
 
 0.002 2014-11-22
  - add version to pm and pod files and bump to next version
